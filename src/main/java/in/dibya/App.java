@@ -8,7 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
-      int x=10;
+      String s="gopal"
         System.out.println( "Hello World!" );
     }
 }
