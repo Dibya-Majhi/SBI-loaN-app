@@ -8,7 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
-      int x=10;
+      int z=30;
         System.out.println( "Hello World!" );
     }
 }
